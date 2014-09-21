@@ -6,3 +6,9 @@ Chidinma Nwaka (g3nwakac)
 Phone number: (416)-254-1070
 Email address: chidinma.nwaka@mail.utoronto.ca
 Github name: ChidiNwaka
+
+
+Kevin Li (g3jiawei)
+Phone number: 647-979-2499
+Email address: ljw3673146@hotmail.com
+Github name: g3jiawei
