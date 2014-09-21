@@ -12,3 +12,9 @@ Kevin Li (g3jiawei)
 Phone number: 647-979-2499
 Email address: ljw3673146@hotmail.com
 Github name: g3jiawei
+
+
+Shihao Zhao (c3zhaosh)
+Phone number: 647-627-1718
+Email address: willzhaoshihao@gmail.com
+Github name: Shihao66
