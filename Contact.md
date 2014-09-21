@@ -18,3 +18,8 @@ Shihao Zhao (c3zhaosh)
 Phone number: 647-627-1718
 Email address: willzhaoshihao@gmail.com
 Github name: Shihao66
+
+Chuan-Keng Chou(g3chouch)
+Phone number: 647-227-6530
+Email address: chuankengchou@gmail.com
+Github name: chouchua
