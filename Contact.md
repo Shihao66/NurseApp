@@ -23,3 +23,8 @@ Chuan-Keng Chou(g3chouch)
 Phone number: 647-227-6530
 Email address: chuankengchou@gmail.com
 Github name: chouchua
+
+Zhonghao Liu(g3liuzho)
+Phone number: 647-926-0328
+Email address: zhonghao.liu@mail.utoronto.ca
+Github name: liuzhon4
