@@ -28,3 +28,8 @@ Zhonghao Liu(g3liuzho)
 Phone number: 647-926-0328
 Email address: zhonghao.liu@mail.utoronto.ca
 Github name: liuzhon4
+
+Hongyi Guo(g3guohon)
+Phone number: 647-821-7666
+Email address: hongyi.guo@mail.utoronto.ca
+Github name: guohongyi
