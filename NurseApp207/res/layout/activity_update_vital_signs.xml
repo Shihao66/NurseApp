@@ -1,0 +1,79 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".AddVitalSignsActivity" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/update_vitalsign"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/temp_field"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="28dp"
+        android:ems="10" 
+        android:hint="@string/temp"/>
+
+        <requestFocus />
+
+    <EditText
+        android:id="@+id/heartRate_field"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/diastolicBP_field"
+        android:layout_below="@+id/diastolicBP_field"
+        android:layout_marginTop="44dp"
+        android:ems="10" 
+        android:hint="@string/heartRate"/>
+
+    <EditText
+        android:id="@+id/diastolicBP_field"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/systolicBP_field"
+        android:layout_centerVertical="true"
+        android:ems="10"
+        android:hint="@string/diastolicBP" />
+
+    <EditText
+        android:id="@+id/systolicBP_field"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/temp_field"
+        android:layout_below="@+id/temp_field"
+        android:layout_marginTop="26dp"
+        android:ems="10"
+        android:hint="@string/systolicBP" />
+
+    <Button
+        android:id="@+id/add_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="15dp"
+        android:layout_marginRight="24dp"
+        android:text="@string/update_vitalsign"
+        android:onClick="updateVital" />
+
+    <EditText
+        android:id="@+id/healthCardNum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/heartRate_field"
+        android:layout_below="@+id/heartRate_field"
+        android:ems="10"
+        android:hint="@string/healthcardnum" />
+
+</RelativeLayout>
